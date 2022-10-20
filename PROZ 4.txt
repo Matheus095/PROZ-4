@@ -1,0 +1,20 @@
+programa
+{
+	
+	funcao inicio()
+	{
+
+	 
+		cadeia nome1, nome2, nome3, nome4, nome5 
+		escreva ("NOME:")
+		leia (nome1)
+		escreva ("\nENDEREÇO:")
+		leia (nome2)
+		escreva ("\nCIDADE:")
+		leia (nome3)
+		escreva ("\nCPF:")
+		leia (nome4)
+		escreva ("\nRG:")
+		leia (nome5)
+		
+		 escreva ("\nNOME: ", nome1, "\nENDEREÇO:", nome2, "\nCIDADE:", nome3, "\nCPF:", nome4, "\nRG:", nome5)
